@@ -7,16 +7,16 @@ About 800 images of three classes of hairstyles were scraped annotated as 1. Afr
 and more images were generated through argumentation by Horizontal flip,rotation,Grayscale,blur .Thia process was used in order to make the model familiar with real life data
 ## Installations
 -For Annotation process check out  [labelImg](https://github.com/tzutalin/labelImg)
-- Check out [Yolov5] (https://pytorch.org/hub/ultralytics_yolov5/)
+- Check out [Yolov5](https://pytorch.org/hub/ultralytics_yolov5/)
 The notebook
 
 ## Result 
 ![](Detected_Images/ggg.jpg)
-![](Detected_Images/resulttt.jpg)
+![](Detected_Images/resultttt.jpg)
 
 ## Demo App
 
-## Article
+##  Article
 
 
 
