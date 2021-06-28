@@ -11,8 +11,8 @@ and more images were generated through argumentation by Horizontal flip,rotation
 The notebook
 
 ## Result 
-![](Detected_Image/ggg.jpg)
-![](Detected_Image/resulttt.jpg)
+![](Detected_Images/ggg.jpg)
+![](Detected_Images/resulttt.jpg)
 
 ## Demo App
 
