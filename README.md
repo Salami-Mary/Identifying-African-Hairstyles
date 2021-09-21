@@ -1,4 +1,4 @@
-# Identifying-African-Hairstyles-Using-Yolov5
+# Identifying-African-Hairstyles
 This is a computer vision project aim to detect different African hairstyles 
 ## INTRODUCTION 
 African hairstyle has always been part of  African culture and it symbolizes the origin, social status, spiritual status of an individual. The aim of this project is to identify various AFRICAN Hairstyles using ROBOFLOW YOLO v5 
