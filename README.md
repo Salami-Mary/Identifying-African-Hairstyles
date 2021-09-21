@@ -18,7 +18,7 @@ and more images were generated through argumentation by Horizontal flip,rotation
 ![](Detected_Images/download.jpg)
 
 ## Demo App 
-click [here](https://bit.ly/3gHJotk)
+click [here](https://bit.ly/3tYOwAi)
 
 ##  Article
 
